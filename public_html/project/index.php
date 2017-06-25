@@ -49,7 +49,7 @@
 						</p>
 					</article>
 
-					<article class="english" data-parallax-bg-image="english.png" data-parallax-speed="1" data-parallax-direction="down"></article>
+					<article class="english" data-parallax-bg-image="english.png" data-parallax-speed="2" data-parallax-direction="down"></article>
 
 					<article>
 						<h2>Efekty nauki widoczne po tygodniu</h2>
